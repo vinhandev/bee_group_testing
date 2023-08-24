@@ -20,3 +20,7 @@ If you want to do unit test, please using command:
 ```yarn test```
 
 Thank you for reviewing my project.
+
+My Contacts:
+Email: vinhan.dev@gmail.com
+Phone: 0362017512
